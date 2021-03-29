@@ -1,0 +1,127 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+
+}
+h1{
+    padding-left: 10px;
+}
+.header-color{
+
+    background-color: hotpink;
+    
+}
+
+.name-color{
+    color: white;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+}
+.first-sec{
+    background-image: url(" images/top-banner.png");
+    background-repeat: no-repeat;
+    height: 600px;
+   
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: 900px;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, tomato,hotpink);
+
+}
+.second-sec{
+    height: 450px;
+    
+    
+    margin-top: 10px;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.second-div{
+    width: 40%;
+    float: left;
+    padding: 3%;
+
+}
+.second-div img{
+    width: 100%;
+}
+p{
+    color: dimgray;
+}
+h3{
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.third-sec{
+    margin-top: 0px;
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 500px;
+    width: 100%;
+    
+
+}
+
+
+.third-div{
+
+    width: 40%;
+    border: 5px solid gainsboro;
+    float: left;
+    padding: 10px;
+    margin-left: 60px;
+    border-radius: 5px;
+    
+}
+.third-div h3{
+    font-size: 15px;
+    background-color: yellow;
+    width: 60%;
+    font-weight: 400;
+    padding: 3px 5px;
+
+}
+.third-div h2{
+
+    background-color: tomato;
+    color:white;
+    padding: 3px 5px;
+    font-weight: 700;
+}
+#special{
+    font-size: 30px;
+    color: teal;
+    font-family: cursive;
+    margin-left: 30px;
+    font-weight: bold;
+}
+#first-table{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg,yellow,tomato);
+    border-image-slice: 1;
+}
+#second-table{
+    border-left: 5px solid ;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 2;
+}
+#footer{
+    text-align: center;
+    font-size: 12px;
+}
